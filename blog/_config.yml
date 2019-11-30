@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: L小姐的秘密花园
+subtitle: '一个丧女孩的笔'
+description: '我觉得自己实在所知甚少，一直想去开始一个自己的博客，却未敢行动，我怕，怕自己做的不够好；我思考，我思考创造什么才算有意义。但有时候大多数意义，就在于它毫无意义。所以创建此博客，记录一个人的胡言乱语'
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: 大脸花花-L小姐
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -90,7 +90,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
