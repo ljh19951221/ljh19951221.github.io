@@ -3,7 +3,7 @@ title: 这是以我为原型的一本小说(连载中)
 date: 2019-11-30 14:02:03
 ---
 
-![https://note.youdao.com/favicon.ico](https://note.youdao.com/favicon.ico)
+![ 每一个细小的梦想都不该被辜负--P图怪 ](../image/user.jpg)
 
 
 我很庆幸，现在你认识的这个我，居然不是很差！ 
