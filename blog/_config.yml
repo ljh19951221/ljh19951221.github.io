@@ -127,3 +127,12 @@ filter_optimize:
   # set the priority of this plugin,
   # lower means it will be executed first, default is 10
   priority: 12
+
+feed:
+    type: atom
+    path: atom.xml
+    limit: 20
+    hub:
+    content:
+    content_limit:
+    content_limit_delim: ' '

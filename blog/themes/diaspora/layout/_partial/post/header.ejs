@@ -1,17 +1,22 @@
 <div id="top" style="display: block;">
     <div class="bar" style="width: 0;"></div>
     <a class="icon-home image-icon" href="javascript:;" data-url="<%= config.url %>"></a>
-    <div title="播放/暂停" class="icon-play"></div>
+    <!-- <div title="播放/暂停" class="icon-play"></div> -->
     <h3 class="subtitle"><%- page.title %></h3>
     <div class="social">
-        <!--<div class="like-icon">-->
-            <!--<a href="javascript:;" class="likeThis active"><span class="icon-like"></span><span class="count">76</span></a>-->
-        <!--</div>-->
+        <div class="like-icon">
+            <a href="javascript:;" class="likeThis active" target="_parent"><span class="icon-like"></span><span
+                    class="count">76</span></a>
+        </div>
         <div>
+            <% if (theme.rss){ %>
+            <a href="<%- url_for(theme.rss) %>" style="color: cornflowerblue;" title="<%= __('rss_feed') %>">订阅</a>
+            <% } %>
             <div class="share">
-                <a title="获取二维码" class="icon-scan" href="javascript:;"></a>
+                <!-- <a title="获取二维码" class="icon-scan" href="javascript:;"></a>
+                <div id="qr">                   
+                </div> -->
             </div>
-            <div id="qr"></div>
         </div>
     </div>
     <div class="scrollbar"></div>

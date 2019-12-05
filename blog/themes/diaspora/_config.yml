@@ -13,10 +13,8 @@ TOC: false
 # 是否自动播放音乐
 autoplay: false
 
-# 默认音乐
-mp3: 
-  - http://link.hhtjim.com/163/5146554.mp3
-  - http://link.hhtjim.com/qq/001faIUs4M2zna.mp3
+# 是否显示网易云音乐外链
+mp3: true
 
 # 首页封面图, 为空时取文章的cover作为封面
 welcome_cover:  /img/welcome-cover2.jpg
