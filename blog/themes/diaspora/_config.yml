@@ -1,7 +1,7 @@
 # 头部菜单，title: link
 menu:
   # 自传: /about
-  # 友情链接: /links
+  电台: /links
   分类: /categories
   归档: /archives
 
