@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>L小姐的秘密花园</title>
+  
+  <subtitle>一个丧女孩的笔</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://ljh19951221.github.io/"/>
+  <updated>2020-08-04T06:48:03.196Z</updated>
+  <id>http://ljh19951221.github.io/</id>
+  
+  <author>
+    <name>大脸花花-L小姐</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于八月</title>
+    <link href="http://ljh19951221.github.io/2020/08/03/%E5%85%B3%E4%BA%8E%E5%85%AB%E6%9C%88/"/>
+    <id>http://ljh19951221.github.io/2020/08/03/%E5%85%B3%E4%BA%8E%E5%85%AB%E6%9C%88/</id>
+    <published>2020-08-03T03:32:34.000Z</published>
+    <updated>2020-08-04T06:48:03.196Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;六月到八月，没再写过东西，似乎是完全写不出东西来~&lt;br&gt;却又一直手痒痒的感觉，想写，又总是拖延着，这两三个月，乃至这半年来，哈&lt;del&gt;总觉得自己没有做成一件事情呢&lt;/del&gt;&lt;br&gt;当自己开启‘网抑云’，在键盘上敲来敲去的回顾近段时间自己的所作所为总有一会儿大彻大悟，一会儿看破红尘的感觉。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://ljh19951221.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="总结" scheme="http://ljh19951221.github.io/categories/%E9%9A%8F%E7%AC%94/%E6%80%BB%E7%BB%93/"/>
+    
+    
+      <category term="总结" scheme="http://ljh19951221.github.io/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我差点放弃更新这个博客网站</title>
+    <link href="http://ljh19951221.github.io/2020/05/22/%E6%88%91%E5%B7%AE%E7%82%B9%E6%94%BE%E5%BC%83%E6%9B%B4%E6%96%B0%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99/"/>
+    <id>http://ljh19951221.github.io/2020/05/22/%E6%88%91%E5%B7%AE%E7%82%B9%E6%94%BE%E5%BC%83%E6%9B%B4%E6%96%B0%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99/</id>
+    <published>2020-05-22T06:59:25.000Z</published>
+    <updated>2020-05-23T15:30:13.873Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我想，算了，不更新了，就算简单的维护也不想再坚持了好麻烦。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="-随笔 -感触" scheme="http://ljh19951221.github.io/categories/%E9%9A%8F%E7%AC%94-%E6%84%9F%E8%A7%A6/"/>
+    
+    
+      <category term="随笔" scheme="http://ljh19951221.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>嘿，你为什么留在北上广</title>
+    <link href="http://ljh19951221.github.io/2020/04/26/%E5%98%BF%EF%BC%8C%E4%BD%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E7%95%99%E5%9C%A8%E5%8C%97%E4%B8%8A%E5%B9%BF/"/>
+    <id>http://ljh19951221.github.io/2020/04/26/%E5%98%BF%EF%BC%8C%E4%BD%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E7%95%99%E5%9C%A8%E5%8C%97%E4%B8%8A%E5%B9%BF/</id>
+    <published>2020-04-26T01:10:31.000Z</published>
+    <updated>2020-05-23T15:30:13.861Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;[我记得我刚来深圳这座城市的时候，很想回家。 而现在，我想留下来。]   &lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://ljh19951221.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="感想" scheme="http://ljh19951221.github.io/categories/%E9%9A%8F%E7%AC%94/%E6%84%9F%E6%83%B3/"/>
+    
+    
+      <category term="梦想" scheme="http://ljh19951221.github.io/tags/%E6%A2%A6%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>近来奇奇怪怪的事儿</title>
+    <link href="http://ljh19951221.github.io/2020/04/02/%E8%BF%91%E6%9D%A5%E5%A5%87%E5%A5%87%E6%80%AA%E6%80%AA%E7%9A%84%E4%BA%8B%E5%84%BF/"/>
+    <id>http://ljh19951221.github.io/2020/04/02/%E8%BF%91%E6%9D%A5%E5%A5%87%E5%A5%87%E6%80%AA%E6%80%AA%E7%9A%84%E4%BA%8B%E5%84%BF/</id>
+    <published>2020-04-02T06:18:52.000Z</published>
+    <updated>2020-05-23T15:30:13.886Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;[以上都采用了笔名，偶尔觉得人生短暂，我们总是短暂的惺惺相惜了一下。 偶尔觉得人生漫长，因为每个阶段都会遗忘。]&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="-随笔 -感悟" scheme="http://ljh19951221.github.io/categories/%E9%9A%8F%E7%AC%94-%E6%84%9F%E6%82%9F/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我想不到诗意的名字了</title>
+    <link href="http://ljh19951221.github.io/2020/03/18/%E6%88%91%E6%83%B3%E4%B8%8D%E5%88%B0%E8%AF%97%E6%84%8F%E7%9A%84%E5%90%8D%E5%AD%97%E4%BA%86/"/>
+    <id>http://ljh19951221.github.io/2020/03/18/%E6%88%91%E6%83%B3%E4%B8%8D%E5%88%B0%E8%AF%97%E6%84%8F%E7%9A%84%E5%90%8D%E5%AD%97%E4%BA%86/</id>
+    <published>2020-03-18T09:06:54.000Z</published>
+    <updated>2020-05-23T15:30:13.873Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://ljh19951221.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="沙雕" scheme="http://ljh19951221.github.io/categories/%E9%9A%8F%E7%AC%94/%E6%B2%99%E9%9B%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>为什么要养一只猫？</title>
+    <link href="http://ljh19951221.github.io/2020/02/22/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%85%BB%E4%B8%80%E5%8F%AA%E7%8C%AB%EF%BC%9F/"/>
+    <id>http://ljh19951221.github.io/2020/02/22/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%85%BB%E4%B8%80%E5%8F%AA%E7%8C%AB%EF%BC%9F/</id>
+    <published>2020-02-22T02:49:14.000Z</published>
+    <updated>2020-05-23T15:30:13.853Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;二月二一，正式接回自己的猫儿子。&lt;br&gt;是只胆子很小的肥橘，原名我已经忘记了，总之接它回来那天我就重新赋予他新的名字了————奥里给   &lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://ljh19951221.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="总结" scheme="http://ljh19951221.github.io/categories/%E9%9A%8F%E7%AC%94/%E6%80%BB%E7%BB%93/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>戾气与批判性思维</title>
+    <link href="http://ljh19951221.github.io/2020/01/22/%E6%88%BE%E6%B0%94%E4%B8%8E%E6%89%B9%E5%88%A4%E6%80%A7%E6%80%9D%E7%BB%B4/"/>
+    <id>http://ljh19951221.github.io/2020/01/22/%E6%88%BE%E6%B0%94%E4%B8%8E%E6%89%B9%E5%88%A4%E6%80%A7%E6%80%9D%E7%BB%B4/</id>
+    <published>2020-01-22T02:08:40.000Z</published>
+    <updated>2020-05-23T15:30:13.878Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+      <category term="往期搬运" scheme="http://ljh19951221.github.io/categories/%E5%BE%80%E6%9C%9F%E6%90%AC%E8%BF%90/"/>
+    
+    
+      <category term="往期搬运" scheme="http://ljh19951221.github.io/tags/%E5%BE%80%E6%9C%9F%E6%90%AC%E8%BF%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>快乐女孩喜欢的男孩</title>
+    <link href="http://ljh19951221.github.io/2020/01/15/%E5%BF%AB%E4%B9%90%E5%A5%B3%E5%AD%A9%E5%96%9C%E6%AC%A2%E7%9A%84%E7%94%B7%E5%AD%A9/"/>
+    <id>http://ljh19951221.github.io/2020/01/15/%E5%BF%AB%E4%B9%90%E5%A5%B3%E5%AD%A9%E5%96%9C%E6%AC%A2%E7%9A%84%E7%94%B7%E5%AD%A9/</id>
+    <published>2020-01-15T06:59:16.000Z</published>
+    <updated>2020-05-23T15:30:13.868Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我叫快乐女孩，出生在一个悲伤世界里。&lt;br&gt;我最喜欢的男孩，是最悲伤的那一个。      &lt;/p&gt;
+&lt;p&gt;悲伤为荣的世界里，他被太多人拥簇，我不过是其中最差的一个。  &lt;/p&gt;
+&lt;p&gt;快乐女孩为何你总是这么快乐，你快乐的令人讨厌。  &lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="文章" scheme="http://ljh19951221.github.io/categories/%E6%96%87%E7%AB%A0/"/>
+    
+      <category term="快乐女孩" scheme="http://ljh19951221.github.io/categories/%E6%96%87%E7%AB%A0/%E5%BF%AB%E4%B9%90%E5%A5%B3%E5%AD%A9/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>最容易吃的苦</title>
+    <link href="http://ljh19951221.github.io/2020/01/07/%E6%9C%80%E5%AE%B9%E6%98%93%E5%90%83%E7%9A%84%E8%8B%A6/"/>
+    <id>http://ljh19951221.github.io/2020/01/07/%E6%9C%80%E5%AE%B9%E6%98%93%E5%90%83%E7%9A%84%E8%8B%A6/</id>
+    <published>2020-01-07T01:58:11.000Z</published>
+    <updated>2020-05-23T15:30:13.881Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;“进厂打工真的太累太崩溃了，或者是不是我太矫情了？” 知乎上该提问引发热议。   &lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="文章" scheme="http://ljh19951221.github.io/categories/%E6%96%87%E7%AB%A0/"/>
+    
+      <category term="灵感" scheme="http://ljh19951221.github.io/categories/%E6%96%87%E7%AB%A0/%E7%81%B5%E6%84%9F/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>独居的这半个月</title>
+    <link href="http://ljh19951221.github.io/2020/01/07/%E7%8B%AC%E5%B1%85%E7%9A%84%E8%BF%99%E5%8D%8A%E4%B8%AA%E6%9C%88/"/>
+    <id>http://ljh19951221.github.io/2020/01/07/%E7%8B%AC%E5%B1%85%E7%9A%84%E8%BF%99%E5%8D%8A%E4%B8%AA%E6%9C%88/</id>
+    <published>2020-01-07T01:57:39.000Z</published>
+    <updated>2020-05-23T15:30:13.883Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;似乎一个人的生活状态慢慢的规律，并习惯起来了。&lt;/p&gt;
+&lt;p&gt;其实并不是独居使我自由，而是早在合租的时候我就已经走出了困住自己的那片黑暗。    &lt;/p&gt;
+&lt;p&gt;曾经认为自我救赎很难，没想到自己早就走在了光明的路上。  &lt;/p&gt;
+&lt;p&gt;我每天可以折腾的事情简直不要太多，煮吃的，听音乐，或者在镜子前自恋半个小时…   &lt;/p&gt;
+&lt;p&gt;总之，似乎半点孤独感也没有。  &lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://ljh19951221.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="总结" scheme="http://ljh19951221.github.io/categories/%E9%9A%8F%E7%AC%94/%E6%80%BB%E7%BB%93/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2020-征途刚刚开始</title>
+    <link href="http://ljh19951221.github.io/2020/01/02/2020-%E5%BE%81%E9%80%94%E5%88%9A%E5%88%9A%E5%BC%80%E5%A7%8B/"/>
+    <id>http://ljh19951221.github.io/2020/01/02/2020-%E5%BE%81%E9%80%94%E5%88%9A%E5%88%9A%E5%BC%80%E5%A7%8B/</id>
+    <published>2020-01-02T06:18:52.000Z</published>
+    <updated>2020-03-03T07:51:56.794Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+      <category term="-随笔 -总结" scheme="http://ljh19951221.github.io/categories/%E9%9A%8F%E7%AC%94-%E6%80%BB%E7%BB%93/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>正式独居的第一天</title>
+    <link href="http://ljh19951221.github.io/2019/12/27/%E6%AD%A3%E5%BC%8F%E7%8B%AC%E5%B1%85%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9/"/>
+    <id>http://ljh19951221.github.io/2019/12/27/%E6%AD%A3%E5%BC%8F%E7%8B%AC%E5%B1%85%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9/</id>
+    <published>2019-12-27T09:02:54.000Z</published>
+    <updated>2020-03-03T07:51:56.806Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://ljh19951221.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="梦想" scheme="http://ljh19951221.github.io/categories/%E9%9A%8F%E7%AC%94/%E6%A2%A6%E6%83%B3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>一个人蜗居的想象</title>
+    <link href="http://ljh19951221.github.io/2019/12/21/%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%9C%97%E5%B1%85%E7%9A%84%E6%83%B3%E8%B1%A1/"/>
+    <id>http://ljh19951221.github.io/2019/12/21/%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%9C%97%E5%B1%85%E7%9A%84%E6%83%B3%E8%B1%A1/</id>
+    <published>2019-12-21T05:57:08.000Z</published>
+    <updated>2020-03-03T07:51:56.794Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+      <category term="胡言乱语" scheme="http://ljh19951221.github.io/categories/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我热爱你，这个世界--奇葩说语录</title>
+    <link href="http://ljh19951221.github.io/2019/12/18/%E6%88%91%E7%83%AD%E7%88%B1%E4%BD%A0%EF%BC%8C%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C--%E5%A5%87%E8%91%A9%E8%AF%B4%E8%AF%AD%E5%BD%95/"/>
+    <id>http://ljh19951221.github.io/2019/12/18/%E6%88%91%E7%83%AD%E7%88%B1%E4%BD%A0%EF%BC%8C%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C--%E5%A5%87%E8%91%A9%E8%AF%B4%E8%AF%AD%E5%BD%95/</id>
+    <published>2019-12-18T01:02:18.000Z</published>
+    <updated>2020-05-23T15:30:13.878Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;寻思追了这么久的奇葩说，当初看的一腔热血，记下些什么语录感想。它改变了我很多，影响了我很多思想，我第一次接触多元的世界，第一次理解世界上的‘少数’。它甚至是档值得多刷的节目，每次观感会不一样。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="梦想" scheme="http://ljh19951221.github.io/categories/%E6%A2%A6%E6%83%B3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>感谢你们陪在我身边</title>
+    <link href="http://ljh19951221.github.io/2019/12/17/%E6%84%9F%E8%B0%A2%E4%BD%A0%E4%BB%AC%E9%99%AA%E5%9C%A8%E6%88%91%E8%BA%AB%E8%BE%B9/"/>
+    <id>http://ljh19951221.github.io/2019/12/17/%E6%84%9F%E8%B0%A2%E4%BD%A0%E4%BB%AC%E9%99%AA%E5%9C%A8%E6%88%91%E8%BA%AB%E8%BE%B9/</id>
+    <published>2019-12-17T09:29:09.000Z</published>
+    <updated>2020-05-23T15:30:13.870Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我有很多朋友。&lt;br&gt;我有死党。&lt;br&gt;我有很多闺蜜。&lt;br&gt;我有兄弟。  &lt;/p&gt;
+&lt;p&gt;我似乎是个来者不拒的人。&lt;br&gt;我很贪，我希望我的朋友，她们之间也能成为朋友。&lt;br&gt;我从来没想过，她们不过是爱屋及乌，配合我演出。  &lt;/p&gt;
+&lt;p&gt;我以前很自豪，我觉得因为自己从中周转，促进了一段良性的关系。&lt;br&gt;我觉得自己善于交谈，我觉得自己幽默，总能逗笑她们。  &lt;/p&gt;
+&lt;p&gt;我用了好多‘我’字，可见我其实很自私。    &lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://ljh19951221.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="反省" scheme="http://ljh19951221.github.io/categories/%E9%9A%8F%E7%AC%94/%E5%8F%8D%E7%9C%81/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>樱花树下的爱情</title>
+    <link href="http://ljh19951221.github.io/2019/12/10/%E6%A8%B1%E8%8A%B1%E6%A0%91%E4%B8%8B%E7%9A%84%E7%88%B1%E6%83%85/"/>
+    <id>http://ljh19951221.github.io/2019/12/10/%E6%A8%B1%E8%8A%B1%E6%A0%91%E4%B8%8B%E7%9A%84%E7%88%B1%E6%83%85/</id>
+    <published>2019-12-10T07:25:21.000Z</published>
+    <updated>2020-05-23T15:30:13.882Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;——我就站在哪里，望着他的背影，一股柔情涌上心来。&lt;br&gt;——只是，他再也不是我爱的少年。  &lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://ljh19951221.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="爱情" scheme="http://ljh19951221.github.io/categories/%E9%9A%8F%E7%AC%94/%E7%88%B1%E6%83%85/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我曾经活得像个英雄</title>
+    <link href="http://ljh19951221.github.io/2019/12/06/%E6%88%91%E6%9B%BE%E7%BB%8F%E6%B4%BB%E5%BE%97%E5%83%8F%E4%B8%AA%E8%8B%B1%E9%9B%84/"/>
+    <id>http://ljh19951221.github.io/2019/12/06/%E6%88%91%E6%9B%BE%E7%BB%8F%E6%B4%BB%E5%BE%97%E5%83%8F%E4%B8%AA%E8%8B%B1%E9%9B%84/</id>
+    <published>2019-12-06T07:30:45.000Z</published>
+    <updated>2020-05-23T15:30:13.876Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;如果世界只剩真善美&quot;&gt;&lt;a href=&quot;#如果世界只剩真善美&quot; class=&quot;headerlink&quot; title=&quot;如果世界只剩真善美&quot;&gt;&lt;/a&gt;如果世界只剩真善美&lt;/h3&gt;&lt;h4 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h4&gt;&lt;p&gt;年少时，我脑子里总会出现一些与别人不一样的想法，我是性格张扬的，我喜欢做那些没有人愿意做没有人敢做的事。  &lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="往事回忆录" scheme="http://ljh19951221.github.io/categories/%E5%BE%80%E4%BA%8B%E5%9B%9E%E5%BF%86%E5%BD%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>奇遇人生</title>
+    <link href="http://ljh19951221.github.io/2019/12/05/%E5%A5%87%E9%81%87%E4%BA%BA%E7%94%9F%E6%9C%89%E6%84%9F(%E4%B8%80)/"/>
+    <id>http://ljh19951221.github.io/2019/12/05/%E5%A5%87%E9%81%87%E4%BA%BA%E7%94%9F%E6%9C%89%E6%84%9F(%E4%B8%80)/</id>
+    <published>2019-12-05T01:41:56.000Z</published>
+    <updated>2020-05-23T15:30:13.863Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;阿雅的奇遇人生第二季，已经完结了。&lt;/p&gt;
+&lt;p&gt;这个节目，用类似纪录片的感觉表达了它的与众不同。&lt;/p&gt;
+&lt;p&gt;不是专业影评，所以只想留下一点我的感受，它的痕迹。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://ljh19951221.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="观感" scheme="http://ljh19951221.github.io/categories/%E9%9A%8F%E7%AC%94/%E8%A7%82%E6%84%9F/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>十二月,你好</title>
+    <link href="http://ljh19951221.github.io/2019/12/01/%E5%8D%81%E4%BA%8C%E6%9C%88-%E4%BD%A0%E5%A5%BD/"/>
+    <id>http://ljh19951221.github.io/2019/12/01/%E5%8D%81%E4%BA%8C%E6%9C%88-%E4%BD%A0%E5%A5%BD/</id>
+    <published>2019-12-01T01:41:56.000Z</published>
+    <updated>2020-08-03T03:37:58.632Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;十一月，做出了改变，不错的，甚好。&lt;br&gt;其实回想我在过去的大半年里，竟然浑浑噩噩的虚度了数月，不记得当中的收获，只记得当时一片虚无。&lt;/p&gt;
+&lt;p&gt;那是一段怎样的时间？唯有两个字：抑郁。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://ljh19951221.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="总结" scheme="http://ljh19951221.github.io/categories/%E9%9A%8F%E7%AC%94/%E6%80%BB%E7%BB%93/"/>
+    
+    
+      <category term="总结" scheme="http://ljh19951221.github.io/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>嘿，我的第一篇博客你好！</title>
+    <link href="http://ljh19951221.github.io/2019/11/30/%E5%98%BF%EF%BC%8C%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E4%BD%A0%E5%A5%BD%EF%BC%81/"/>
+    <id>http://ljh19951221.github.io/2019/11/30/%E5%98%BF%EF%BC%8C%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E4%BD%A0%E5%A5%BD%EF%BC%81/</id>
+    <published>2019-11-30T04:12:36.000Z</published>
+    <updated>2020-03-03T07:51:56.801Z</updated>
+    
+    <summary type="html">
+    
+      &lt;center&gt;
+    只要我更新，博客就不死！&lt;br/&gt;  
+    如果你有梦想！那就捍卫它！&lt;br/&gt;
+
+&lt;pre&gt;&lt;code&gt;我们都喜欢为所谓热爱感到心潮澎湃，那么你找到了自己的热爱吗？
+
+喝下百草枯，它给你时间来后悔，却不给你后悔的机会。&lt;/code&gt;&lt;/pre&gt;&lt;/center&gt;
+    
+    </summary>
+    
+    
+      <category term="胡言乱语" scheme="http://ljh19951221.github.io/categories/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/"/>
+    
+      <category term="短句" scheme="http://ljh19951221.github.io/categories/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/%E7%9F%AD%E5%8F%A5/"/>
+    
+    
+  </entry>
+  
+</feed>
