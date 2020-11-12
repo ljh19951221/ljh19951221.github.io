@@ -1,9 +1,8 @@
 <!-- docs/_sidebar.md -->
-* [目录1](no.2/ "The greatest guide in the world")
-    <!-- docs/_sidebar.md -->
-    * [子目录1.1](no.2/guide1.md "The greatest guide in the world")
-    * [子目录2.2](no.2/guide.md "diyie")
-* [目录2](no.1/ "diyie")
-    <!-- docs/_sidebar.md -->
-    * [子目录1](no.1/guidecopy.md "The greatest guide in the world")
-    * [子目录2](no.1/guide3.md "diyie")
+* [前端技术](前端技术/ "不学技术，何以谈人生")
+     * [笔记](前端技术/笔记/ "首页介绍")   
+          * [JS笔记](前端技术/笔记/后盾人课程笔记.md "JS笔记")
+          * [HTML笔记](前端技术/笔记/html笔记.md "HTML笔记")
+* [哲学人生](哲学人生/ "所行之路，纵有千万个理由放弃，也不敢忘记最初所想")
+     * [二零二零年十月](哲学人生/二零二零年十月.md "十月回顾九月和总结")
+     * [二零二零年十一月](哲学人生/二零二零年十一月.md "十一月，你好")
