@@ -99,7 +99,7 @@ theme: diaspora
 deploy:
   type: 'git'
   repo: 
-    github: https://github.com/ljh19951221/ljh19951221.github.io
+    github: git@github.com:ljh19951221/ljh19951221.github.io.git
     # coding: https://git.dev.tencent.com/liujinhua_9512/liujinhua_9512.git
 
   branch: master
